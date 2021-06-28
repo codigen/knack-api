@@ -15,6 +15,10 @@ app.use(express.urlencoded({extended: true}));
 
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("Hello world")
+})
+
 // Bring in the routes
 app.use(require('./routes'));
 

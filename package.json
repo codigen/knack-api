@@ -21,5 +21,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigen/knack-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codigen/knack-api/issues"
+  },
+  "homepage": "https://github.com/codigen/knack-api#readme"
 }
