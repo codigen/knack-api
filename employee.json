@@ -2,59 +2,54 @@
    "data": [
     
         {
-        "employee_id": "0",
-         "employee_name": "Sam David", 
-         "employee_email": "samdavid@gmail.com"
+            "id": "1",
+            "name": "Sam Paul", 
+            "email": "samPaul@gmail.com"
         },
         {
-            "employee_id": "1",
-            "employee_name": "Sam Paul", 
-            "employee_email": "samPaul@gmail.com"
+            "id": "2",
+            "name": "Sam Jonathan", 
+            "email": "samJonathan@gmail.com"
         },
         {
-            "employee_id": "2",
-            "employee_name": "Sam Jonathan", 
-            "employee_email": "samJonathan@gmail.com"
+            "id": "3",
+            "name": "Tom John", 
+            "email": "Tom@gmail.com"
         },
         {
-            "employee_id": "3",
-            "employee_name": "Tom John", 
-            "employee_email": "Tom@gmail.com"
+            "id": "4",
+            "name": "Melanie Swale", 
+            "email": "melanie@gmail.com"
         },
         {
-            "employee_id": "4",
-            "employee_name": "Melanie Swale", 
-            "employee_email": "melanie@gmail.com"
+            "id": "5",
+            "name": "Temple Knae", 
+            "email": "temple@gmail.com"
         },
         {
-            "employee_id": "5",
-            "employee_name": "Temple Knae", 
-            "employee_email": "temple@gmail.com"
+            "id": "6",
+            "name": "Sam David", 
+            "email": "samdavid@gmail.com"
         },
         {
-            "employee_id": "6",
-            "employee_name": "Sam David", 
-            "employee_email": "samdavid@gmail.com"
+            "id": "7",
+            "name": "John Dave", 
+            "email": "samdavid@gmail.com"
         },
         {
-            "employee_id": "7",
-            "employee_name": "John Dave", 
-            "employee_email": "samdavid@gmail.com"
+            "id": "8",
+            "name": "Nate Dane", 
+            "email": "natedan@gmail.com"
         },
         {
-            "employee_id": "8",
-            "employee_name": "Nate Dane", 
-            "employee_email": "natedan@gmail.com"
+            "id": "9",
+            "name": "Helen Kimono", 
+            "email": "helenk@gmail.com"
         },
         {
-            "employee_id": "9",
-            "employee_name": "Helen Kimono", 
-            "employee_email": "helenk@gmail.com"
-        },
-        {
-            "employee_id": "10",
-            "employee_name": "Mane Swag", 
-            "employee_email": "maneSwag@gmail.com"
+            "id": "10",
+            "name": "Mane Swag", 
+            "email": "maneSwag@gmail.com"
         }
     ]
    
