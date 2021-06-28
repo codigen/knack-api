@@ -39,9 +39,7 @@ router.get("/getRecords", async(req, res) => {
 
     res.status(200).json({
         success: true,
-        data:{
-            employeeData
-        },
+        employeeData,
         noOfEmployees: employeeData.data.length
     })
 
